@@ -17,10 +17,7 @@ chocolateBars.push("skittles");
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 
-function addElementToBeginningOfArray(chocolateBars, element) {
-
+function addElementToBeginningOfArray(array, element) {
+  return [element, ...array]
 }
 
-function addElementToBeginningOfArray(chocolateBars, 'foo') {
-
-}

@@ -11,6 +11,9 @@ chocolateBars.push("hundred grand");
 chocolateBars.push("kitkat");
 chocolateBars.push("skittles");
 
+
+console.log(chocolateBars);
+
 function addElementToBeginningOfArray(array, element) {
 
   return [element ...array]

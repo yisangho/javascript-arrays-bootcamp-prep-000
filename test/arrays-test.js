@@ -11,8 +11,8 @@ describe('arrays', () => {
   })
 
   describe('chocolateBars', () => {
-    console.log("===================")
-    console.log(chocolateBars[0]);
+    //console.log("===================")
+    //console.log(chocolateBars[0]);
     it('is an array containing "snickers", "hundred grand", "kitkat", and "skittles"', () => {
       expect(chocolateBars).to.eql['snickers', 'hundred grand', 'kitkat', 'skittles']
     })

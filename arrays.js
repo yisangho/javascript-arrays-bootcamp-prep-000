@@ -6,10 +6,10 @@ it('is an array containing "snickers", "hundred grand", "kitkat", and "skittles"
 */
 var chocolateBars = new Array();
 
-chocolateBars.push("snickers");
-chocolateBars.push("hundred grand");
-chocolateBars.push("kitkat");
-chocolateBars.push("skittles");
+//chocolateBars.push("snickers");
+//chocolateBars.push("hundred grand");
+//chocolateBars.push("kitkat");
+//chocolateBars.push("skittles");
 
 function addElementToBeginningOfArray(array, element) {
 

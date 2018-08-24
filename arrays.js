@@ -22,5 +22,5 @@ function addElementToBeginningOfArray(chocolateBars, element) {
 }
 
 function addElementToBeginningOfArray(chocolateBars, 'foo') {
-  
+
 }

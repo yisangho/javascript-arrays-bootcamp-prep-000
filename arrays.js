@@ -12,7 +12,7 @@ chocolateBars.push("kitkat");
 chocolateBars.push("skittles");
 
 
-console.log(chocolateBars);
+console.log(chocolateBars[0]);
 
 function addElementToBeginningOfArray(array, element) {
 
